@@ -1,6 +1,6 @@
 # Metric Lab — bản thử
 
-Website tiếng Việt, gồm 12 câu tính toán và lựa chọn tình huống performance marketing đa ngành, có gợi ý, lưu tiến độ trên trình duyệt, chấm điểm và giải thích sau khi nộp.
+Website tiếng Việt, gồm 12 câu tính toán và lựa chọn tình huống performance marketing đa ngành, có gợi ý, bài giải có thể mở ngay dưới mỗi câu, lưu tiến độ trên trình duyệt, chấm điểm và giải thích sau khi nộp.
 
 ## Chạy
 
